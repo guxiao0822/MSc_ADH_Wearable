@@ -1,0 +1,6 @@
+# Lab data is downloaded by the notebook
+data/*.pkl
+data/*.part
+
+__pycache__/
+.ipynb_checkpoints/
